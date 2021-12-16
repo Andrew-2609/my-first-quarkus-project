@@ -1,4 +1,8 @@
-# my-first-quarkus-project project
+# My First Quarkus Project
+
+❗ Default generated description below ❗ I'll update it soon ⚡
+
+---
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
